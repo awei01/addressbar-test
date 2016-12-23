@@ -1,0 +1,19 @@
+{
+  "name": "addressbar-test",
+  "version": "1.0.0",
+  "description": "test repo for addressbar change event firing twice",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "addressbar": "^1.0.3",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  },
+  "devDependencies": {
+    "react-scripts": "^0.8.4"
+  }
+}
